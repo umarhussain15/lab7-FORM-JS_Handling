@@ -1,0 +1,29 @@
+.control{
+display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+.control * {
+margin:2px;
+}
+.form-area, .form-area * {
+    display: inline-block;
+    text-align: center;
+}
+.hello{
+text-align: center;
+    width: 100%;
+}
+form{
+    display: inline-block;
+width:500px;
+height:500px;
+border:2px solid #a5a5a5;
+padding:20px;
+background-color:#f3f3f3;
+border-radius:3px;
+text-align:center;
+}
+form * {
+    margin:3px;
+}
